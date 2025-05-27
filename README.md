@@ -53,20 +53,10 @@ Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anindya-Duti-Dhar&show_icons=true&theme=radical" alt="Anindya's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anindya-Duti-Dhar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anindya-duti-dhar/)  
-📧 anindya.dhar@example.com (replace with your real email)
+📧 anindyadutidhar@gmail.com
 
 ---
 

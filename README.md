@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Anindya Duti Dhar</h1>
 
 <p align="center">
-  🚀 Senior Software Engineer (Flutter & Android) | Team Lead | 9+ Years of Experience  
+  🚀 Flutter & Android Specialist | Agile Project Manager | Software Engineering Lead | 9+ Years of Experience  
   <br>
   🇧🇩 Based in Bangladesh | 🌍 Built solutions deployed in 25+ countries
 </p>

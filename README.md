@@ -26,11 +26,9 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
 
 **Architecture & Patterns:**  
-Clean Architecture, MVVM, MVP, BLoC, Cubit, Repository Pattern
+Clean Architecture, MVVM, MVP, BLoC (Cubit), Repository Pattern
 
 **Tools & Platforms:**  
 Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room

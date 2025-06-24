@@ -10,13 +10,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 [About Me](https://anindya-duti-dhar.github.io)
 
 🎯 Passionate about building scalable, impactful, and user-friendly mobile apps.  
 💼 8+ years leading mobile app teams at Save the Children International.  
 📱 Published cross-platform and native Android apps improving early learning and child wellbeing.  
 🎓 B.Sc. in Computer Science and Engineering (PSTU) | Medium of instruction: English.
-🚀 .[Personal Portfolio](https://anindya-duti-dhar.github.io).
 
 ---
 

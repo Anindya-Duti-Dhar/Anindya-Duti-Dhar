@@ -38,7 +38,7 @@ Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room, Hive
 ## 🚀 [Featured Projects](https://play.google.com/store/apps/developer?id=Save+the+Children+in+Bangladesh)
 
 - **mHealth Apps**  
-  Health assessment & history tracking and hospital management apps deployed Nationwise and also in 3+ countries. (e.g. [**IMCI**](https://techhub.scibd.info/en/project-page/imci-assessment-application) and [**EMERALD**](https://techhub.scibd.info/en/project-page/emerald)
+  Health assessment & history tracking and hospital management apps deployed Nationwise and also in 3+ countries (e.g. [**IMCI**](https://techhub.scibd.info/en/project-page/imci-assessment-application) and [**EMERALD**](https://techhub.scibd.info/en/project-page/emerald)).
 
 - **Biometric Registration App**  
   User Registration App with Fingerprint scanning device and bluetooth printer device integration using Android Native architecture.
@@ -47,7 +47,7 @@ Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room, Hive
   Native Android live streaming and real-time audio-video chat apps using XMPP, WebRTC, Openfire (server).
   
 - **Learning Apps**  
-  E-learning apps for children deployed in 5+ countries. (e.g. [**Learning Tree**](https://techhub.scibd.info/en/project-page/imci-assessment-application) and [**Your Voice**](https://techhub.scibd.info/en/project-page/child-friendly-response-(cfr)-app)
+  E-learning apps for children deployed in 5+ countries (e.g. [**Learning Tree**](https://techhub.scibd.info/en/project-page/imci-assessment-application) and [**Your Voice**](https://techhub.scibd.info/en/project-page/child-friendly-response-(cfr)-app)).
 
 - **AI Based App**  
   Internal enterprise app for efficient meeting room booking and staff directory management with AI based Solution.
@@ -56,7 +56,7 @@ Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room, Hive
   Restaurant order management app with bluetooth printer device integration using Android Native architecture.
   
 - **Internal MIS App**  
-  Internal MIS app deployed in 5+ countries. (e.g. [**Onamika**](https://play.google.com/store/apps/details?id=com.scibd.sciOnamikaa) and [**FRM**](https://play.google.com/store/apps/details?id=com.techhub.bangladesh.scibd.frm).
+  Internal MIS app deployed in 5+ countries (e.g. [**Onamika**](https://play.google.com/store/apps/details?id=com.scibd.sciOnamikaa) and [**FRM**](https://play.google.com/store/apps/details?id=com.techhub.bangladesh.scibd.frm)).
 
 ---
 

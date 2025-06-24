@@ -3,9 +3,9 @@
 <h1 align="center">👋 Hi, I'm Anindya Duti Dhar</h1>
 
 <p align="center">
-  🚀 Flutter & Android Specialist | Agile Project Manager | Software Engineering Lead | 9+ Years of Experience  
+  Flutter & Android Specialist | Agile Project Manager | Software Engineering Lead | 9+ Years of Experience  
   <br>
-  🇧🇩 Based in Bangladesh | 🌍 Built solutions deployed in 25+ countries
+  📍 Dhaka, Bangladesh | 🚀 Built solutions for 25+ countries
 </p>
 
 ---
@@ -16,6 +16,7 @@
 💼 8+ years leading mobile app teams at Save the Children International.  
 📱 Published cross-platform and native Android apps improving early learning and child wellbeing.  
 🎓 B.Sc. in Computer Science and Engineering (PSTU) | Medium of instruction: English
+🚀 [Personal Portfolio](https://anindya-duti-dhar.github.io) 
 
 ---
 
@@ -28,26 +29,35 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
 
 **Architecture & Patterns:**  
-Clean Architecture, MVVM, MVP, BLoC (Cubit), Repository Pattern
+Clean Architecture, MVVM, MVP, State Management, Repository Pattern
 
 **Tools & Platforms:**  
-Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room
+Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room, Hive
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 [Featured Projects](https://play.google.com/store/apps/developer?id=Save+the+Children+in+Bangladesh)
 
-- [**Early Learning Apps**](https://play.google.com/store/apps/developer?id=Save+the+Children+in+Bangladesh)  
-  Flutter-based educational apps for children deployed in 25+ countries.
+- **mHealth Apps**  
+  Health assessment & history tracking and hospital management apps deployed Nationwise and also in 3+ countries. (e.g. [**IMCI**](https://techhub.scibd.info/en/project-page/imci-assessment-application) and [**EMERALD**](https://techhub.scibd.info/en/project-page/emerald)
 
-- **Meeting Room Booking App**  
-  Internal enterprise app (Flutter + .NET Core) for efficient room and staff directory management.
+- **Biometric Registration App**  
+  User Registration App with Fingerprint scanning device and bluetooth printer device integration using Android Native architecture.
 
-- **Conversational Speech App**  
-  Real-time chat experience with voice recognition and TTS built using Flutter & `speech_to_text`.
+- **Live Streaming App**  
+  Native Android live streaming and real-time audio-video chat apps using XMPP, WebRTC, Openfire (server).
+  
+- **Learning Apps**  
+  E-learning apps for children deployed in 5+ countries. (e.g. [**Learning Tree**](https://techhub.scibd.info/en/project-page/imci-assessment-application) and [**Your Voice**](https://techhub.scibd.info/en/project-page/child-friendly-response-(cfr)-app)
 
-- **Management Portal (Blazor)**  
-  Admin dashboard with user management, analytics, and secure API backend using Azure.
+- **AI Based App**  
+  Internal enterprise app for efficient meeting room booking and staff directory management with AI based Solution.
+
+- **Food Restaurant Management App**  
+  Restaurant order management app with bluetooth printer device integration using Android Native architecture.
+  
+- **Internal MIS App**  
+  Internal MIS app deployed in 5+ countries. (e.g. [**Onamika**](https://play.google.com/store/apps/details?id=com.scibd.sciOnamikaa) and [**FRM**](https://play.google.com/store/apps/details?id=com.techhub.bangladesh.scibd.frm).
 
 ---
 

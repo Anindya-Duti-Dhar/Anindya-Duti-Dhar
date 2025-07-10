@@ -58,6 +58,9 @@ Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room, Hive
 - **Internal MIS App**  
   Internal MIS app deployed in 5+ countries (e.g. [**Onamika**](https://play.google.com/store/apps/details?id=com.scibd.sciOnamikaa) and [**FRM**](https://play.google.com/store/apps/details?id=com.techhub.bangladesh.scibd.frm)).
 
+## 🚀 Personal Website
+**[Portfolio](https://anindya-duti-dhar.github.io)**
+
 ---
 
 ## 📫 Let’s Connect

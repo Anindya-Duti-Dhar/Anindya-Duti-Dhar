@@ -38,6 +38,9 @@ Firebase, Azure, Git, GitHub Actions, REST APIs, SQLite, Room, Hive
 
 ## 🚀 [Featured Projects](https://play.google.com/store/apps/developer?id=Save+the+Children+in+Bangladesh)
 
+- **Telco and Fintech Apps**  
+  High traffic mobile apps for Fintech and Telco platforms serving 50M+ users accross the world (details are in [**Company Portfolio**](https://portonics.com/portfolio)).
+
 - **mHealth Apps**  
   Health assessment & history tracking and hospital management apps deployed Nationwise and also in 3+ countries (e.g. [**IMCI**](https://techhub.scibd.info/en/project-page/imci-assessment-application) and [**EMERALD**](https://techhub.scibd.info/en/project-page/emerald)).
 
